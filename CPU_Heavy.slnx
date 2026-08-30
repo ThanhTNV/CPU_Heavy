@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BulkImagePipeline/BulkImagePipeline.csproj" />
+  <Project Path="Main/Main.csproj" Id="a1d3bfd2-f82b-4f97-b746-2bfec37d30b9" />
+</Solution>
